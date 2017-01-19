@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "GetPrice",
+      "slots": [
+        {
+          "name": "Share",
+          "type": "LIST_OF_SHARES"
+        },
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    }
+  ]
+}
